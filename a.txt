@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 me: Hello Git
 get: Hey, good to see you.
 Delete: Delete file
+=======
+fuck: fuck u 
+++++++++++++++
+>>>>>>> branch
